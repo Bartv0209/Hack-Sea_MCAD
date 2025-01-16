@@ -23,4 +23,4 @@ Usage
 
 To start the web crawler, use the following command:
 
-npm start
+node index.js
